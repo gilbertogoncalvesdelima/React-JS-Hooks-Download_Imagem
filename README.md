@@ -15,4 +15,4 @@ visualização.
 # Para verificar o projeto click no link
 npm run build
 
-https://download-imagem-react-js.netlify.app/# download_imagem_react_js
+https://download-imagem-react-js.netlify.app/#
